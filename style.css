@@ -1,0 +1,15 @@
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects{
+    background-color: #e2edff;
+    animation: slidein 3s linear 1s;
+}
+
+section{
+    padding-top: 5rem;
+}
+
